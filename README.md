@@ -9,6 +9,5 @@ The latest version will always be available here: https://doi.org/10.1000/182
 
 References to the DOI Handbook should always be made to: https://doi.org/10.1000/182  
 
-All Handbook change requests should be entered here as Github Issues (see tabs above)
-
-Open the Issues tab and click on the New Issue button and complete the form. 
+All Handbook change requests should be entered here as Github Issues 
+(Open the Issues tab above and click on the New Issue button and complete the form.) 
