@@ -8,3 +8,5 @@ It will store all versions of the DOI Handbook but only the latest one is author
 The latest version will always be available here: https://doi.org/10.1000/182 
 
 References to the DOI Handbook should always be made to: https://doi.org/10.1000/182  
+
+All Handbook change requests should be entered here n Github as Issues (see tabs above) 
