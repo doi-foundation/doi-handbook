@@ -1,0 +1,1 @@
+java -jar target/transform-1.0-fop-complete.jar -c xslt/fop.macos.xconf -fo result/handbook.fo -pdf result/handbook.pdf 

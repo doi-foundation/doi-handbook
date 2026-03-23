@@ -1,0 +1,1 @@
+java -jar target\transform-1.0-saxon-complete.jar -s:xml\DOIHandbook.xml -xsl:xslt\handbook.xslt -o:result\handbook.fo
